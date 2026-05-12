@@ -8,6 +8,10 @@
 
 This repository hosts the public downloadable builds for **DAWTONE**, a desktop music-production app for macOS and Windows.
 
+![DAWTONE arrangement and piano roll view](assets/dawtone-arrangement-piano-roll.png)
+
+DAWTONE combines a timeline arrangement, MIDI clips, piano-roll editing, track controls, a browser for instruments/effects/plug-ins, and an online/local library workflow in one desktop app.
+
 For the best download experience, use the official DAWTONE website:
 
 **[Download DAWTONE](https://dawtone-software.web.app/#download)**
@@ -25,6 +29,19 @@ Before downloading from the official site, you can choose:
 - a custom amount through the open contribution option
 
 Paid support is optional, but it helps fund development, testing, and new DAWTONE releases. Please use the official website flow instead of direct payment links, so the download and support steps stay connected to the latest release.
+
+## Multilingual Support
+
+DAWTONE includes multilingual interface support. The current app translations are:
+
+- English
+- Italian
+- French
+- German
+- Spanish
+- Russian
+- Chinese
+- Japanese
 
 ## Available Builds
 
