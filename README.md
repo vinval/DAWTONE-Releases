@@ -6,11 +6,17 @@
 
 # DAWTONE Releases
 
-This repository hosts the public downloadable builds for **DAWTONE**, a desktop music-production app for macOS and Windows.
+This repository hosts the public downloadable builds for **DAWTONE**, a desktop music-production app and connected music community for macOS and Windows.
 
 ![DAWTONE arrangement and piano roll view](assets/dawtone-arrangement-piano-roll.png)
 
 DAWTONE combines a timeline arrangement, MIDI clips, piano-roll editing, track controls, a browser for instruments/effects/plug-ins, and an online/local library workflow in one desktop app.
+
+## Music Production And Community
+
+DAWTONE is not only a music-production tool. It also includes a social layer where creators can publish their tracks, share them publicly, and receive audience feedback through the DAWTONE portal.
+
+Registered users can also access DAWTONE's online library for downloadable creative resources, including samples, packs, plug-ins, and additional built-in devices/content as they become available.
 
 For the best download experience, use the official DAWTONE website:
 
